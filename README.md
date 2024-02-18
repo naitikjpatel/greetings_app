@@ -28,5 +28,5 @@ Feel free to explore the code, make it your own, or contribute to the project. S
 
 
 
-![first_greetings](https://github.com/naitikjpatel/greetings_app/assets/120157810/2cf5acc7-c670-46f2-b935-86098d134e20)
-![second_greetings](https://github.com/naitikjpatel/greetings_app/assets/120157810/4be7f622-03c1-496e-9f55-6548df190f35)
+![first_greetings](https://github.com/naitikjpatel/greetings_app/assets/120157810/2cf5acc7-c670-46f2-b935-86098d134e20 height="400" width="250")
+![second_greetings](https://github.com/naitikjpatel/greetings_app/assets/120157810/4be7f622-03c1-496e-9f55-6548df190f35 height="400" width="250")
