@@ -27,7 +27,7 @@ Welcome to the Greeting App repository! This simple Android app is designed to s
 Feel free to explore the code, make it your own, or contribute to the project. Spread positivity with the Greeting App! 🌈✨
 
 
-<img src="https://github.com/naitikjpatel/greetings_app/assets/120157810/2cf5acc7-c670-46f2-b935-86098d134e20" height="400" width="250">
+<img src="https://github.com/naitikjpatel/greetings_app/assets/120157810/2cf5acc7-c670-46f2-b935-86098d134e20" height="430" width="210">
 
-<img src="https://github.com/naitikjpatel/greetings_app/assets/120157810/4be7f622-03c1-496e-9f55-6548df190f35" height="400" width="250">
+<img src="https://github.com/naitikjpatel/greetings_app/assets/120157810/4be7f622-03c1-496e-9f55-6548df190f35" height="430" width="210">
 
